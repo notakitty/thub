@@ -1,34 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Please come up with a Cool Title!!!</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
+    <meta charset="UTF-8">
+    <title>Cool Title</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
 </head>
 
-  <body>
-  <nav>
+<body>
+<nav>
     <a href="#/">EN</a>
-    <a href="#/zh-cn/">简体中文</a>
-  </nav>
-  <div id="app"></div>
-  </body>
+    <a href="#/">ES</a>
+    <a href="#/">IT</a>
+</nav>
+<div id="app"></div>
 
-  <script>
+<script>
     window.$docsify = {
-      loadNavbar: true,
-      loadSidebar: true,
+        loadNavbar: false,  <!-- Set to false to use custom navbar -->
+        loadSidebar: true,
     }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
-  <!-- search -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<!-- Keep only one instance of the search plugin -->
+<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 </body>
 </html>

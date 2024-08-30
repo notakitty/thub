@@ -2,3 +2,5 @@
 
 * [Home](/)
 * [Guide](guide.md)
+* [Disclaimer](disclaimer.md)
+* [Countries](country.md)
