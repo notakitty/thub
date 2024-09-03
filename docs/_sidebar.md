@@ -4,3 +4,4 @@
 * [Guide](guide.md)
 * [Disclaimer](disclaimer.md)
 * [Countries](country.md)
+* [Belgium](belgium.md)
