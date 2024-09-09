@@ -4,24 +4,23 @@
 **Table of Contents**
 1. [Local Climate](https://notakitty.github.io/thub/#/belgium?id=local-climate)
 2. [Languages](https://notakitty.github.io/thub/#/belgium?id=languages)
-3. [Pros & Cons of Living in Belgium](https://notakitty.github.io/thub/#/belgium?id=pros-amp-cons-of-living-in-belgium)
-4. [Immigration Options](https://notakitty.github.io/thub/#/belgium?id=immigration-options)
-5. [Trans Healthcare](https://notakitty.github.io/thub/#/belgium?id=trans-healthcare)
-6. [BIPOC](https://notakitty.github.io/thub/#/belgium?id=bipoc)
-7. [Disability](https://notakitty.github.io/thub/#/belgium?id=disability)
-8. [Safety Stats](https://notakitty.github.io/thub/#/belgium?id=safety-stats)
-9. [Additional Resources](https://notakitty.github.io/thub/#/belgium?id=resources)
+3. [Immigration Options](https://notakitty.github.io/thub/#/belgium?id=immigration-options)
+4. [Trans Healthcare](https://notakitty.github.io/thub/#/belgium?id=trans-healthcare)
+5. [BIPOC](https://notakitty.github.io/thub/#/belgium?id=bipoc)
+6. [Disability](https://notakitty.github.io/thub/#/belgium?id=disability)
+7. [Safety Stats](https://notakitty.github.io/thub/#/belgium?id=safety-stats)
+8. [Additional Resources](https://notakitty.github.io/thub/#/belgium?id=resources)
  
 
 ---
 
-So you are considering moving to Belgium? The great news is that Belgium is generally very LGBT+ friendly! There are plenty of rainbow meet up groups, café's and Pride events going on throughout the year.
+So you are considering moving to Belgium? The great news is that Belgium is generally very LGBT+ friendly! There are plenty of rainbow meet-up groups, café's, and Pride events going on throughout the year.
 
-The country is very multi-cultural as well, so you will hear a lot of different languages as you walk through the streets on you way to get a croissant from the "bakkerij" or "boulangerie". Belgium has three national languages as well just to make things more complicated 😉
+The country is very multicultural as well, so you will hear a lot of different languages as you walk through the streets on your way to getting a croissant from the "bakkerij" or "boulangerie". Belgium has three national languages as well just to make things more complicated 😉
 
-The diversity of Belgium does however add a lot complexity. There are problems with some regions being far right, multiple governments, and very localised services. For such a small country it can sometimes be overwhelming! So if you don't want to deal with a lot of bureaucracy, Belgium might not be the country for you.
+However, Belgium's diversity adds a lot of complexity. There are problems with some regions being far-right, multiple governments, and very localised services. For such a small country, it can sometimes be overwhelming! So, if you don't want to deal with a lot of bureaucracy, Belgium might not be the country for you.
 
->"There are 5 regional governments and 1 federal government. Each federated state has its own government. As an exception, the federated states of the Flemish Community and the Flemish region have a single Flemish government. As such, there are 5 regional governments in Belgium, and 1 federal government."
+>"There are 5 regional governments and 1 federal government. Each federated state has its government. As an exception, the federated states of the Flemish Community and the Flemish region have a single Flemish government. As such, there are 5 regional governments in Belgium and 1 federal government."
 
 [Source](https://www.fedasilinfo.be/en/belgium-has-6-governments).
 
@@ -35,86 +34,126 @@ When you arrive in Belgium there are processes for all newcomers to follow. How 
 * The [Cost of living](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium) according to numbeo.
 * The housing Price Index in Quarter 3 of the financial year 2023 was 137.92 [Source](https://statbel.fgov.be/en/figures)
 
-Belgium is one of the highest taxed countries in the world. You will pay your income taxes once a year following your tax assessment so you will need to make sure you put wages aside each month in preparation to pay your tax. There is also a ground tax for your house, and various other taxes that always seem to appear from nowhere. 
+Belgium is one of the highest-taxed countries in the world. You will pay your income taxes once a year following your tax assessment so you will need to make sure you put wages aside each month in preparation to pay your tax. There is also a ground tax for your house and various other taxes that always seem to appear from nowhere. 
 
 ✏️ TIP: A quick way to fit in with Belgian people is to complain about how much taxes you have to pay!
 
-Housing prices vary around the country, but on average it is more expensive in the "Vlaanderen" region. For an idea of prices you can visit Statista's [Average price of a house in Belgium from 2013 to 2022](https://www.statista.com/statistics/666792/average-housing-prices-in-belgium/).
+Housing prices vary around the country, but on average it is more expensive in the "Vlaanderen" region. For an idea of prices, you can visit Statista's [Average price of a house in Belgium from 2013 to 2022](https://www.statista.com/statistics/666792/average-housing-prices-in-belgium/).
 
-✏️ TIP: The best website to find somewhere to live is [Immoweb](https://www.immoweb.be/en). You can use it in English and it works very similarly to RightMove in the UK.
+✏️ TIP: The best website to find somewhere to live is [Immoweb](https://www.immoweb.be/en). You can use it in English and it works very similarly to Rightmove in the UK.
 
 Food can be expensive in Belgium as a lot of it is imported goods. If you are on a budget, supermarkets like Aldi, Lidl or Colruyt are excellent options.
 
-Café's always offer good quality but cheaper meals if you want to go out for a meal without spending a fortune. Just be aware that customer service is very different to in the UK and is much slower paced. Going for a meal or drinks will take you much longer than it would in the UK so be sure to factor that into your planning.
+Cafés always offer good quality but cheaper meals if you want to go out for a meal without spending a fortune. Just be aware that customer service is very different to in the UK and is much slower paced. Going for a meal or drinks will take you much longer than it would in the UK so be sure to factor that into your planning.
 
-There are many takeaway options in Belgium. They have the usuals like McDonalds and Dominoes, but they also have their own chain called Quick. You can grab a kebab from a "kebap" shop but you won't find any Fish n Chip shops. Belgians go to a shop called a "frituur" in the Vlaanderen region (they also have these in the Netherlands!) which sell the worlds best chips (or frietjes/frites!) alongside lots of unique fried goods. We recommend you dip your chips in "joppie saus" or truffle mayo, then accomany it with "Bitterballen" or the "biccy burger".
-
+There are many takeaway options in Belgium. They have the usuals like McDonalds and Dominoes, but they also have their chain called Quick. You can grab a kebab from a "kebap" shop but you won't find any Fish n Chip shops. Belgians go to a shop called a "frituur" in the Vlaanderen region (they also have these in the Netherlands!) which sells the world's best chips (or frietjes/frites!) alongside lots of unique fried goods. We recommend you dip your chips in "joppie saus" or truffle mayo, then accompany it with "Bitterballen" or the "biccy burger".
 
 🏢 **Working Here** 🏢
 
-If you need help finding a job, you can sign up to the follow job centres:
+If you need help finding a job, you can sign up for the following job centres:
 * [Bruxelles/Brussel - Actiris](https://www.actiris.brussels/fr/citoyens/). *This website is in French.*
-* [Vlaanderen - VDAB](https://www.vdab.be). *Website is in Dutch.*
+* [Vlaanderen - VDAB](https://www.vdab.be). *This website is in Dutch.*
 * [Wallonia - leForem](https://www.leforem.be/what-can-le-forem-do-for-you.html#Citizens). *This website is in French*
 * [Ostbelgien - ADG](https://adg.be). *This website is in German.*
 
 📚 **Studying Here**📚
-Belgium has some of the best universities in the world. International students flock to Leuven as their medical school has an excellent reputation. Cities like Leuven are very used to speaking English as a lingua franca so many shops and activites will be English speaking.
+Belgium has some of the best universities in the world. International students flock to Leuven as their medical school has an excellent reputation. Cities like Leuven are very used to speaking English as a lingua franca so many shops and activities will be English-speaking.
 
-Most of the university cities have a similar situation, as well as many degrees now being taught exclusively in English. Whilst studying you can learn one of the three national languages, and they take great care of their students. 
+Most of the university cities have a similar situation, as well as many degrees are now being taught exclusively in English. Whilst studying you can learn one of the three national languages, and they take great care of their students. 
 
-Once you have graduated you can also stay in the country for an additional period whilst you decide to either take furthr studies or obtain work.
+Once you have graduated you can also stay in the country for an additional period whilst you decide to either take further studies or obtain work.
 
 ### Local climate
 
-The climate is usually described as mild in Belgium. It is similar to the UK but on average has much less rainfall. You will see much more dramatic thunder and lighting storms here so look out for those! It's like watching storms in films.
+The climate is usually described as mild in Belgium. It is similar to the UK but on average has much less rainfall. You will see much more dramatic thunder and lightning storms here so look out for those! It's like watching storms in films.
 
 ### Languages
 
-Since 1st January 2024, in order to apply for Belgian residency, you need to speak at least one of the three official languages (French, Dutch or German) to an A2 level.
+Since 1st January 2024, to apply for Belgian residency, you need to speak at least one of the three official languages (French, Dutch, or German) to an A2 level.
 
-The process for accessing the language courses varies depending on the region you are moving to and your current education level.
+The process for accessing the language courses varies depending on the region you are moving to and your current education level. This will be assessed and supported by the local "Integratie" agency.
 
 **Bruxelles/Brussel**
+[Bon Integratie](https://bon.be/en). *This website is in English.*
 
-**Vlaanderen**
+**Antwerpen**
+[Atlas](https://www.atlas-antwerpen.be/nl). *This website is in Dutch.*
+
+**Gent**
+[Amaal](https://www.amal.gent/). *This website is in Dutch.*
+
+**Rest of Vlaanderen**
+[Agentschap Integratie en Inburgering](https://www.integratie-inburgering.be/en/welcome-to-flanders-and-brussels). *This website is in English.*
 
 **Wallonia**
+[Action Sociale](http://actionsociale.wallonie.be/integration/parcours-integration-primo-arrivants). *This website is in French.*
 
 **Ostbelgien**
-
-### Pros & Cons of living in Belgium
-
-something here
-cost of living https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium
+[Government page regarding integration and migration](https://ostbelgienlive.be/desktopdefault.aspx/tabid-4795/). *This website is in German.*
 
 ---
 
 ## Immigration Options
 
-### EU citizens living in the UK
+### Citizens of the European Union
 
-something here
+If you are an EU citizen you can exercise your right to the Freedom of Movement. However, make sure you meet one of the following criteria to remain for more than 90 days:
+1. You are an employee or a self-employed person in Belgium;
+2. You have entered Belgium to seek employment and prove that he/she is seeking further employment and has a good chance of being hired;
+3. You have sufficient resources to avoid becoming a burden on the social assistance system in Belgium during his/her stay, and have health insurance covering all risks in Belgium;
+4. You are enrolled at an organized, recognized, or subsidized educational institution for the main purpose of following a course of study, including vocational training, and have health insurance covering all risks in Belgium, and assures, by means of a declaration or by such equivalent means as he/she may choose, that he/she has sufficient resources not to become a burden on the social assistance system during his/her stay in Belgium.
 
-### Non-EU citizens living in the UK
+For the latest [Right of entry](https://dofi.ibz.be/en/themes/citizens-european-union/right-entry-and-residence/right-entry-and-residence-belgium-eu) information.
 
-something here
+### Third Country Nationals
 
-### Non-EU Citizens in a relationship or married to an EU Citizen
+If you are a British citizen you are classed as a "third country national".
 
-something here
+#### Family Reunification
+You must apply for a Visa via the Belgian embassy through their [TLS contact website](https://visas-be.tlscontact.com/visa/gb).
 
-### Work Visa
+As of the 1st of September 2024, everyone must apply for a Visa from the UK. The previous exemption of arriving without a Visa under "family unification under cohabitation" no longer applies. (You could previously arrive and apply for your right to reside through the city hall. This no longer appears to be an option).
 
-something here
+#### Work Visa
 
-### Student Visa
+For the latest information please visit the [IBZ website](https://dofi.ibz.be/en/themes/third-country-nationals/work).
 
-something here
+#### Student Visa
+
+This is usually a D Visa application. For the latest information please visit the [IBZ website](https://dofi.ibz.be/en/themes/third-country-nationals/study/initial-authorisation-stay-application-visa-d-authorisation).
+
+> ✏️ TIP:  "In Autumn 2024, the EU will introduce a new digital Entry/Exit System (EES). Non-EU nationals, including UK nationals, visiting the EU will need to create a digital record when entering the EU’s Schengen Zone. This includes providing biometric data (fingerprints and facial image) at the border."
+
+[Souce: UK Government website](https://www.gov.uk/guidance/living-in-belgium)
 
 ### Family Ancestry
 
-???
+Generally, to be eligible for Belgian citizenship by descent, it is generally required that at least one parent or grandparent be a Belgian citizen at the time of the applicant's birth.
+
+" **You were born "Before January 1, 1967**
+
+You qualify if you are:
+* the legitimate child born to a Belgian citizen father, or
+* A person born out of wedlock with the first parent to acknowledge you was a Belgian citizen.
+
+In the first case, you are a Belgian citizen from birth, whereas in the second one, you are Belgian from the moment of acknowledgment.
+
+**You were born between January 1, 1967, and December 31, 1984.**
+
+You qualify if you were:
+* Born in Belgium to a Belgian citizen, or
+* Born abroad to a Belgian father who was married to your mother at the time of your birth, or
+* Born abroad to a Belgian citizen born in Belgium or Belgian Congo before June 30, 1960, or in Rwanda or Burundi before July 1, 1962.
+
+**You were born on or After January 1, 1985**
+
+You qualify if you were:
+* Born in Belgium to a Belgian citizen, or
+* Born outside of Belgium to one parent who was born abroad while the other parent (Belgian parent) was:
+* Born in Belgium or Belgian Congo before June 30, 1960, or was born in Rwanda or Burundi before July 1, 1962, or
+* Born abroad but your parents made a declaration within five years of your birth to request Belgian citizenship."
+
+[Source](https://nomadcapitalist.com/global-citizen/second-passport/belgian-citizenship-by-descent/#title_1).
 
 ---
 
@@ -125,14 +164,34 @@ something here
 
 > **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered as medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Do not disregard professional medical advice or delay seeking it because of something you have read here.
 
+---
 
 ## BIPOC
 
-something here
+Like much of the UK, as well as much of Europe, Belgium is currently struggling with itself. It is a multicultural country, however, racist sentiments appear to be on the rise. This is evidenced in political parties such as Vlaams Beleng (an extreme right-wing party) seeing greater popularity.
+
+If you go to the Belgium Reddit you will find evidence of the constant cultural conflict ongoing around St. Gilles, Brussel/Bruxelles, and the train station "Midi", Brussel/Bruxelles (Location of the EuroStar). 
+
+⚠️ Trigger warning, a lot of these posts contain extremely racist sentiments. Please view with caution. Click here to browse the [Belgium Reddit immigrant posts](https://www.reddit.com/r/belgium/search/?q=immigrant&type=link&cId=af1a2101-aa18-4806-924d-0f071686a794&iId=5ed3ced2-120a-400b-8d15-5daa05ef374e).
+
+
+> "In the last decade, each year Belgian authorities registered between 800 and 1,400 cases of racism and xenophobia. The number of cases registered was lowest in 2013 and peaked in the most recent time period. In 2022, around 1,000 racism cases were registered. Racism accounted for roughly three-quarters of all discrimination cases in Belgium in 2022."
+
+[Source: Racism and xenophobia cases in Belgium 2008-2022](https://www.statista.com/statistics/536080/racism-and-xenophobia-cases-in-belgium/).
+
+---
 
 ## Disability
 
-something here
+Belgium offers more opportunities than the UK for disabled people to obtain work. There are projects for those of us who need more support whilst working such as those run by [MetSense](https://www.metsense.be/). Your potential employer can also access additional funds for employing staff that are disabled, which lessens some of the employment obstacles we face in the UK.
+
+In Belgium, you are also protected from disability discrimination in areas such as education and the workplace. If you are discriminated against, there are many places you can report it such as [the UNIA](https://www.unia.be/en). 
+
+If you use mobility aids, you are unlikely to find it easy living in Belgium. This is partly because most areas do not have things like drop curbs for wheelchairs, and shop aisles are often overcrowded. You might find things a little easier living in one of the larger cities, however, there is still a noticeable lack of accessibility. 
+
+If you have an invisible disability such as Autism there are many charities offering advice and you will find many of them operate in English or have staff available who can speak English. There are fewer support groups or meet-up events when compared to the UK and public understanding of invisible disabilities is generally low.
+
+✏️ TIP: Under some circumstances, you can continue claiming the Daily Living Allowance of your PIP (Personal Independence Payments) whilst living abroad. To find out more please follow the guidance on the [UK Government website](https://www.gov.uk/claim-benefits-abroad/disability-benefits).
 
 ---
 
@@ -153,11 +212,13 @@ In the past 12 months have you ever felt discriminated against due to being LGBT
 
 Source: [2024 EU LGBTIA Survey](https://fra.europa.eu/en/publications-and-resources/data-and-maps/2024/eu-lgbtiq-survey-iii).
 
+---
+
 ## Additional Resources
 
 * [Belgium at a glance](https://www.belgium.be/sites/default/files/Brochure_2022_Anglais_web.pdf) PDF brochure written by Federal Public Service for Foreign Affairs. *This document is in English.* 
 * [Belgium Embassy Website](https://unitedkingdom.diplomatie.belgium.be/en). *This website is in English.*
-* [International House](https://www.internationalhouseleuven.be/). The international house is a nonprofit that helps internationals get settled into Belgium. *This website is in English.*
+* [International House](https://www.internationalhouseleuven.be/). The International House is a nonprofit that helps internationals get settled in Belgium. *This website is in English.*
 * [Transgender Infopunt](https://www.transgenderinfo.be/nl) contains all you need to know about accessing transgender healthcare and support groups in Belgium. *This website is in Dutch.*
 
 ---
