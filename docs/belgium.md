@@ -101,7 +101,7 @@ If you are an EU citizen you can exercise your right to the Freedom of Movement.
 1. You are an employee or a self-employed person in Belgium;
 2. You have entered Belgium to seek employment and prove that he/she is seeking further employment and has a good chance of being hired;
 3. You have sufficient resources to avoid becoming a burden on the social assistance system in Belgium during his/her stay, and have health insurance covering all risks in Belgium;
-4. You are enrolled at an organized, recognized, or subsidized educational institution for the main purpose of following a course of study, including vocational training, and have health insurance covering all risks in Belgium, and assures, by means of a declaration or by such equivalent means as he/she may choose, that he/she has sufficient resources not to become a burden on the social assistance system during his/her stay in Belgium.
+4. You are enrolled at an organised, recognised, or subsidised educational institution for the main purpose of following a course of study, including vocational training, and have health insurance covering all risks in Belgium, and assures, by means of a declaration or by such equivalent means as he/she may choose, that he/she has sufficient resources not to become a burden on the social assistance system during his/her stay in Belgium.
 
 For the latest [Right of entry](https://dofi.ibz.be/en/themes/citizens-european-union/right-entry-and-residence/right-entry-and-residence-belgium-eu) information.
 
