@@ -159,8 +159,15 @@ You qualify if you were:
 
 ## Trans Healthcare
 
-something here
+This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to obtain a referral letter to the transgender health care you wish to access.
 
+Pricing is a little more complex with some hospitals being able to cover more of your costs with your health insurance than others. If you go direct to specialists outside of the gender teams you will need to ask each specialist if their work is potentially covered by health insurance. You can also contact your health insurance provider to see how much of your transition journey they cover.
+
+For the best and latest information on access trans healthcare in Belgium visit the [Transgender Infopunt](https://www.transgenderinfo.be/nl). *This website is in Dutch.*
+
+The best gender team to access is the one at Gent Hospital, however they have a large waiting list. You can still put your name on a gender team's waiting list whilst you access specialists directly. This often can be a quicker way to access HRT.
+
+There is very little resistance in general from specialists and gender teams regarding your transition. The psychological assessment that everyone has to do at the start of their journey (be that a psychologist directly or one via the gender teams) is informed on LGBT+ issues and merely wants to check your family history, health history, dysphoria, gender expression, your sexuality and have some insight from friends or family. All of this gets written up into a report which then includes referrals or the first steps of recommendations for your transition. The first steps usually involve referrals to an Endocrinologist and Voice Training coaches.
 
 > **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered as medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Do not disregard professional medical advice or delay seeking it because of something you have read here.
 
