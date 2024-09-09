@@ -179,7 +179,7 @@ Like much of the UK, as well as much of Europe, Belgium is currently struggling 
 
 If you go to the Belgium Reddit you will find evidence of the constant cultural conflict ongoing around St. Gilles, Brussel/Bruxelles, and the train station "Midi", Brussel/Bruxelles (Location of the EuroStar). 
 
-⚠️ Trigger warning, a lot of these posts contain extremely racist sentiments. Please view with caution. Click here to browse the [Belgium Reddit immigrant posts](https://www.reddit.com/r/belgium/search/?q=immigrant&type=link&cId=af1a2101-aa18-4806-924d-0f071686a794&iId=5ed3ced2-120a-400b-8d15-5daa05ef374e).
+⚠️ Trigger warning, a lot of these posts contain extremely racist sentiments. Please view with caution. Browse the [Belgium Reddit immigrant posts](https://www.reddit.com/r/belgium/search/?q=immigrant&type=link&cId=af1a2101-aa18-4806-924d-0f071686a794&iId=5ed3ced2-120a-400b-8d15-5daa05ef374e).
 
 
 > "In the last decade, each year Belgian authorities registered between 800 and 1,400 cases of racism and xenophobia. The number of cases registered was lowest in 2013 and peaked in the most recent time period. In 2022, around 1,000 racism cases were registered. Racism accounted for roughly three-quarters of all discrimination cases in Belgium in 2022."
