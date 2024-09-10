@@ -5,7 +5,6 @@
 * [Disclaimer](disclaimer.md)
 * [Limited Support](country.md)
 * [Belgium](belgium.md)
-* [Poland](poland.md)
 * [Spain](spain.md)
   
 - **Links**
