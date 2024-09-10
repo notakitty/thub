@@ -3,7 +3,7 @@
 * [Home](/)
 * [Guide](guide.md)
 * [Disclaimer](disclaimer.md)
-* [Countries](country.md)
+* [Limited Support](country.md)
 * [Belgium](belgium.md)
 * [Poland](poland.md)
 * [Spain](spain.md)

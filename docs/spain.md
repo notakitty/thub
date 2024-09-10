@@ -27,7 +27,8 @@
 
 🏢 **Working Here** 🏢
 
-working here
+working here - youth unemployment is higher, cash in hand jobs more common
+Tax information (insert regional variants)
 
 📚 **Studying Here**📚
 
@@ -40,11 +41,7 @@ something here %rainy days, temp range
 
 Spanish
 Catalan
-add more
-
-### Pros & Cons of living in Belgium
-
-
+add more (other counties)
 
 ---
 
@@ -82,19 +79,18 @@ something here
 
 ## Trans Healthcare
 
-something here
-to add: acathi and transit
+legislation: Catalunya does not require a formal diagnosis, the system is informed consent with a straightforward access after initial evaluation
 
 > **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered as medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Please don't ignore professional medical advice or delay seeking it because of something you have read here.
 
 
 ## BIPOC
 
-something here
+integration support access
 
 ## Disability
 
-something here
+social support? social support for non citizens etc
 
 ---
 
@@ -105,7 +101,10 @@ Catalunya https://www.equaldex.com/region/catalunya
 
 ## Additional Resources
 
-LGBT org Valencia https://lambdavalencia.org/
+- Barcelona LGBTI Center https://ajuntament.barcelona.cat/lgtbi/en/services/barcelona-lgbti-centre
+- Catalan (Badalona/Barcelona/Girona/Lleida/Manresa/Reus/Sabadell/Terrassa) health service for transgender people https://catsalut.gencat.cat/ca/serveis-sanitaris/altres-serveis/model-atencio-salut-persones-trans/index.html#googtrans(ca|en)
+- Acathi (Barcelona-based support for LGBT immigrants, from orientation to language classes) https://www.acathi.org/
+- Lambda Valencia LGTBI+ orientation and support https://lambdavalencia.org/
 
 ---
 
