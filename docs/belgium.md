@@ -159,28 +159,62 @@ You qualify if you were:
 
 ## Trans Healthcare
 
-> **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered as medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Do not disregard professional medical advice or delay seeking it because of something you have read here.
+> **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Do not disregard professional medical advice or delay seeking it because of something you have read here.
 
 This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to obtain a referral letter to the transgender health care you wish to access.
 
+
+💰 **Costs** 💰
+
 Pricing is a little more complex with some hospitals being able to cover more of your costs with your health insurance than others. If you go direct to specialists outside of the gender teams you will need to ask each specialist if their work is potentially covered by health insurance. You can also contact your health insurance provider to see how much of your transition journey they cover.
 
-The best gender team to access is the one at Gent Hospital, however they have a large waiting list. You can still put your name on a gender team's waiting list whilst you access specialists directly. This often can be a quicker way to access HRT.
+⏲️ **Waiting Times** ⏲️
+
+The best gender team to access is the one at Gent Hospital, however they have a large waiting list. You can still put your name on a gender team's waiting list whilst you access specialists directly. This often can be a quicker way to access HRT. 
+
+❤️ **Psychological Assessment** ❤️
 
 There is very little resistance in general from specialists and gender teams regarding your transition. The psychological assessment that everyone has to do at the start of their journey (be that a psychologist directly or one via the gender teams) is informed on LGBT+ issues and merely wants to check your family history, health history, dysphoria, gender expression, your sexuality and have some insight from friends or family. All of this gets written up into a report which then includes referrals or the first steps of recommendations for your transition. The first steps usually involve referrals to an Endocrinologist and Voice Training coaches.
 
-> For the best and latest information on access trans healthcare in Belgium visit the [Transgender Infopunt](https://www.transgenderinfo.be/nl). *This website is in Dutch.*
+👑 **Name Change and Gender Recognition** 👑
+
+In Belgium you are usually only allowed to change your first name so we recommend changing your name via deed poll in the UK first. This way you can change your entire name, and have your passport updated before moving. When you arrive your EU ID can then be made in your new name - it is just a much more stress-free way of doing things. If you would like to learn how to change your name in the UK please visit the [Gov website](https://www.gov.uk/change-name-deed-poll).
+
+Conversely, it is easier to have your gender recognised in Belgium once you have your ED ID card. In Belgium, you do not even have to be seeing a Gender Team or professionals yet to change your gender on documents. You make an appointment with the City Hall with the civil registrar. 
+
+> ✏️ TIP: Make sure you take the following with you to your appointment to speed things up!
+> * proof of identity;
+> * Signed statement (see below);
+> * Extract from the criminal register, model 1 (can you request from your town or city hall).
+> 
+> *Example of signed statement*
+>
+>Verklaring voor de aanpassing van de registratie van het geslacht in de akten van de burgerlijke stand (artikel 135/1, § 3 oud Burgerlijk Wetboek)
+Ik, ondergetekende, ……………………………………………………………………………… (naam en voorna(a)m(en)),
+geboren te…………………………………………………….(geboorteplaats) op…………………………………… (datum),
+verklaar hierbij dat:
+ik ervan overtuigd ben dat het geslacht vermeld in mijn geboorteakte niet overeenstemt met mijn innerlijk beleefde genderidentiteit; dat ik de administratieve en juridische gevolgen van een aanpassing van de registratie van het geslacht in mijn geboorteakte wens.
+Gedaan te…………………………………………………… (woonplaats) op ………………………………………… (datum),
+………………………………………………………………………………………………………… (handtekening aanvrager)
+………………………………………………………………………… (naam en handtekening ouder(s) ofdat wettelijk vertegenwoordiger)
+> 1) Enkel van toepassing indien de aanvrager een niet-ontvoogde minderjarige is. Een aanvraag voor een niet-ontvoogde minderjarige moet door beide ouders samen worden ondertekend, zelfs indien zij gescheiden leven. Indien één of beide ouder(s) de minderjarige niet wil bijstaan kan de minderjarige aan de familierechtbank vragen om voor deze procedure bijgestaan te worden door een voogd ad hoc.
+
+
+Within three days (though sometimes it can take a little longer) the civil registrar sent off to the King’s attorney for advice. The Prosecutor of the King provides advice within three months. This will be a negative opinion where the civil registrar cannot process the gender change, or no response will be received within three months, in which case the civil registrar can progress with your gender change application.
+
+You make another appointment with the civil registrar, a minimum of three and a maximum of six months after the first appearance. If there are no contraindications, the deed to adjust the sex registration will be drawn up. Your gender will then be changed and attached to your registration number (it is similar to your national insurance number but you use it for things like your Doctor as well. This number can be found on your EU ID card).
+
+Once your gender has been updated in Belgium, you can use this as evidence for a [Gender Recognition Certificate](https://www.gov.uk/apply-gender-recognition-certificate) in the UK so that you can update your gender on your passport as well.
+
+As a non-legal option, you can contact the Transgender Infopunt and request a "Gender Pass". This is a card document that explains things like a deadname on official documentation, or your ID photo not quite matching up with how you present your gender now (really useful if you are not out at work but decide to by yourself at weekends!). You can apply by visiting their website [here](https://www.transgenderinfo.be/nl/expressie/genderpasje). *This website is in Dutch.*
+
+> For the latest information on access to trans healthcare in Belgium visit the [Transgender Infopunt](https://www.transgenderinfo.be/nl). *This website is in Dutch.*
 
 ---
 
 ## BIPOC
 
-Like much of the UK, as well as much of Europe, Belgium is currently struggling with itself. It is a multicultural country, however, racist sentiments appear to be on the rise. This is evidenced in political parties such as Vlaams Beleng (an extreme right-wing party) seeing greater popularity.
-
-If you go to the Belgium Reddit you will find evidence of the constant cultural conflict ongoing around St. Gilles, Brussel/Bruxelles, and the train station "Midi", Brussel/Bruxelles (Location of the EuroStar). 
-
-⚠️ Trigger warning, a lot of these posts contain extremely racist sentiments. Please view with caution. Browse the [Belgium Reddit immigrant posts](https://www.reddit.com/r/belgium/search/?q=immigrant&type=link&cId=af1a2101-aa18-4806-924d-0f071686a794&iId=5ed3ced2-120a-400b-8d15-5daa05ef374e).
-
+Like much of the UK, as well as much of Europe, Belgium is currently struggling with itself. It is a multicultural country, however, racist sentiments appear to be on the rise:
 
 > "In the last decade, each year Belgian authorities registered between 800 and 1,400 cases of racism and xenophobia. The number of cases registered was lowest in 2013 and peaked in the most recent time period. In 2022, around 1,000 racism cases were registered. Racism accounted for roughly three-quarters of all discrimination cases in Belgium in 2022."
 
@@ -196,7 +230,7 @@ In Belgium, you are also protected from disability discrimination in areas such 
 
 If you use mobility aids, you are unlikely to find it easy living in Belgium. This is partly because most areas do not have things like drop curbs for wheelchairs, and shop aisles are often overcrowded. You might find things a little easier living in one of the larger cities, however, there is still a noticeable lack of accessibility. 
 
-If you have an invisible disability such as Autism there are many charities offering advice and you will find many of them operate in English or have staff available who can speak English. There are fewer support groups or meet-up events when compared to the UK and public understanding of invisible disabilities is generally low.
+If you have an invisible disability such as Autism there are many charities offering advice and you will find many of them operate in English or have staff available who can speak English. 
 
 ✏️ TIP: Under some circumstances, you can continue claiming the Daily Living Allowance of your PIP (Personal Independence Payments) whilst living abroad. To find out more please follow the guidance on the [UK Government website](https://www.gov.uk/claim-benefits-abroad/disability-benefits).
 
@@ -230,4 +264,4 @@ Source: [2024 EU LGBTIA Survey](https://fra.europa.eu/en/publications-and-resour
 
 ---
 
-> *This wiki is not intended to replace legal advice. For the latest information, please visit the embassy website for the country you wish to move to.*
+> *This wiki is not intended to replace legal advice. For the latest information, you can visit the embassy website for the country you'd like to move to.*
