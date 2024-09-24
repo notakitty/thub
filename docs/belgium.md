@@ -161,8 +161,11 @@ You qualify if you were:
 
 > **Disclaimer:** The information provided on this page is for informational purposes only and should not be considered medical advice. It is not intended to replace professional medical consultation, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition or treatment. Do not disregard professional medical advice or delay seeking it because of something you have read here.
 
-This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to obtain a referral letter to the transgender health care you wish to access.
+This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to start your gender care journey.
 
+🛣️ **Gender Care Pathway** 🛣️
+
+Whether you decide to use a Gender Team or organise your gender care yourself, you will roughly follow the pathway used at several hospitals. You can view this pathway [here](https://www.transgenderinfo.be/sites/default/files/2022-10/zorgpad-1.pdf). *This website is in Dutch.*
 
 💰 **Costs** 💰
 
@@ -171,6 +174,7 @@ Pricing is a little more complex with some hospitals being able to cover more of
 ⏲️ **Waiting Times** ⏲️
 
 The best gender team to access is the one at Gent Hospital, however they have a large waiting list. You can still put your name on a gender team's waiting list whilst you access specialists directly. This often can be a quicker way to access HRT. 
+
 
 ❤️ **Psychological Assessment** ❤️
 
