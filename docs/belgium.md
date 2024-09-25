@@ -227,6 +227,7 @@ Once your gender has been updated in Belgium, you can use this as evidence for a
 As a non-legal option, you can contact the Transgender Infopunt and request a "Gender Pass". This is a card document that explains things like a deadname on official documentation, or your ID photo not quite matching up with how you present your gender now (really useful if you are not out at work but decide to by yourself at weekends!). You can apply by visiting their website [here](https://www.transgenderinfo.be/nl/expressie/genderpasje). *This website is in Dutch.*
 
 🌱 **Minors Gender Care** 🌱
+
 For under 18s, the process is slightly different. You will need to register them with a gender team or independent psychologist. They will then assist you and your child with their gender identity and transition journey. Adolescent inhibitors and HRT are currently available for minors.
 
 > For the latest information on access to trans healthcare in Belgium visit the [Transgender Infopunt](https://www.transgenderinfo.be/nl). *This website is in Dutch.*
