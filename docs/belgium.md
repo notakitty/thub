@@ -163,13 +163,14 @@ You qualify if you were:
 
 This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to start your gender care journey.
 
-> ⚠️ **Bad News** On 24th September 2024 we received a letter from the Leuven KU Gender Team advising that you can no longer self-refer to their Gender Team. We do not know at this point if these changes are taking place at the other Gender Teams at present. They have stated that the reason for this due to large waiting lists. Upon our last check, the waiting list is currently at a minimum of one year. You can find out more information regarding the new process and waiting times [here](https://www.upckuleuven.be/nl/raadplegingen/raadpleging-gender). *This website is in Dutch.* The new process as defined in the letter:
+> ⚠️ **Bad News** On 24th September 2024 we received a letter from the Leuven KU Gender Team advising that you can no longer self-refer to their Gender Team. We do not know at this point if these changes are taking place at the other Gender Teams at present. They have stated that the reason for this due to large waiting lists. Upon our last check, the waiting list is currently at a minimum of one year. You can find out more information regarding the new process and waiting times [here](https://www.upckuleuven.be/nl/raadplegingen/raadpleging-gender). *This website is in Dutch.*
 > 
-> Key changes
+> The new process as defined in the letter:
+> 
 > 1. Renewed care offer specifically targets people with the targeted demand for a start-up of hormone therapy, with the primary goal of informing about hormonal transition and to identify the support network mapping.
 > 2. To participate in the gender care program, a referral letter is required, preferably prepared by the regular sexologist or psychologist, or by the general practitioner, psychiatrist or attending physician. The gender consultation offers a template for this digital referral letter that allows you to enter the referral clearly.
 > 3. Instead of long-term counseling, the gender care team now works with a series of four sessions, including one session with someone close to the patient. After these four sessions follows a possible referral to the endocrinology service for the initiation of hormone therapy. If however, it appears that there are psychological symptoms that interfere with the ability to consent to a gender-affirming treatment, a targeted referral is made for further psychotherapeutic counseling before a referral for hormone therapy can occur.
-> 4. We unfortunately cannot initiate counseling, but refer to other specialized agencies:
+> 4. We unfortunately cannot initiate counseling, but refer to other specialised agencies:
 > - if the question is of a more exploratory nature, for example in case of doubts about gender identity
 > - If there is no specific request for hormone therapy
 > - If the question falls within the scope of non-binarity.
