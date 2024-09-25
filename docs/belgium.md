@@ -20,7 +20,7 @@ The country is very multicultural as well, so you will hear a lot of different l
 
 However, Belgium's diversity adds a lot of complexity. There are problems with some regions being far-right, multiple governments, and very localised services. For such a small country, it can sometimes be overwhelming! So, if you don't want to deal with a lot of bureaucracy, Belgium might not be the country for you.
 
->"There are 5 regional governments and 1 federal government. Each federated state has its government. As an exception, the federated states of the Flemish Community and the Flemish region have a single Flemish government. As such, there are 5 regional governments in Belgium and 1 federal government."
+>"There are 5 regional governments and 1 federal government. Each federated state has its own government. As an exception, the federated states of the Flemish Community and the Flemish region have a single Flemish government. As such, there are 5 regional governments in Belgium and 1 federal government."
 
 [Source](https://www.fedasilinfo.be/en/belgium-has-6-governments).
 
@@ -34,7 +34,7 @@ When you arrive in Belgium there are processes for all newcomers to follow. How 
 * The [Cost of living](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium) according to numbeo.
 * The housing Price Index in Quarter 3 of the financial year 2023 was 137.92 [Source](https://statbel.fgov.be/en/figures)
 
-Belgium is one of the highest-taxed countries in the world. You will pay your income taxes once a year following your tax assessment so you will need to make sure you put wages aside each month in preparation to pay your tax. There is also a ground tax for your house and various other taxes that always seem to appear from nowhere. 
+Belgium is one of the countries with the highest taxes in the world. You will pay your income taxes once a year following your tax assessment so you will need to make sure you put wages aside each month in preparation to pay your tax. There is also a ground tax for your house and various other taxes that always seem to appear from nowhere. 
 
 ✏️ TIP: A quick way to fit in with Belgian people is to complain about how much taxes you have to pay!
 
@@ -163,6 +163,19 @@ You qualify if you were:
 
 This is a very straightforward process in Belgium. You can either add yourself to a waitlist at a hospital yourself - no need to go through a GP gatekeeping service! Or, you can go to a psychologist directly to start your gender care journey.
 
+> ⚠️ **Bad News** On 24th September 2024 we received a letter from the Leuven KU Gender Team advising that you can no longer self-refer to their Gender Team. We do not know at this point if these changes are taking place at the other Gender Teams at present. They have stated that the reason for this due to large waiting lists. Upon our last check, the waiting list is currently at a minimum of one year. You can find out more information regarding the new process and waiting times [here](https://www.upckuleuven.be/nl/raadplegingen/raadpleging-gender). *This website is in Dutch.* The new process as defined in the letter:
+> 
+> Key changes
+> 1. Renewed care offer specifically targets people with the targeted demand for a start-up of hormone therapy, with the primary goal of informing about hormonal transition and to identify the support network mapping.
+> 2. To participate in the gender care program, a referral letter is required, preferably prepared by the regular sexologist or psychologist, or by the general practitioner, psychiatrist or attending physician. The gender consultation offers a template for this digital referral letter that allows you to enter the referral clearly.
+> 3. Instead of long-term counseling, the gender care team now works with a series of four sessions, including one session with someone close to the patient. After these four sessions follows a possible referral to the endocrinology service for the initiation of hormone therapy. If however, it appears that there are psychological symptoms that interfere with the ability to consent to a gender-affirming treatment, a targeted referral is made for further psychotherapeutic counseling before a referral for hormone therapy can occur.
+> 4. We unfortunately cannot initiate counseling, but refer to other specialized agencies:
+> - if the question is of a more exploratory nature, for example in case of doubts about gender identity
+> - If there is no specific request for hormone therapy
+> - If the question falls within the scope of non-binarity.
+> 
+> Examples external bodies: convened gender centers; Transgender info point; Flemish Sexology Association. You can always re-register when the question of hormone therapy arises.
+
 🛣️ **Gender Care Pathway** 🛣️
 
 Whether you decide to use a Gender Team or organise your gender care yourself, you will roughly follow the pathway used at several hospitals. You can view this pathway [here](https://www.transgenderinfo.be/sites/default/files/2022-10/zorgpad-1.pdf). *This website is in Dutch.*
@@ -184,7 +197,7 @@ There is very little resistance in general from specialists and gender teams reg
 
 In Belgium you are usually only allowed to change your first name so we recommend changing your name via deed poll in the UK first. This way you can change your entire name, and have your passport updated before moving. When you arrive your EU ID can then be made in your new name - it is just a much more stress-free way of doing things. If you would like to learn how to change your name in the UK please visit the [Gov website](https://www.gov.uk/change-name-deed-poll).
 
-Conversely, it is easier to have your gender recognised in Belgium once you have your ED ID card. In Belgium, you do not even have to be seeing a Gender Team or professionals yet to change your gender on documents. You make an appointment with the City Hall with the civil registrar. 
+Conversely, it is easier to have your gender recognised in Belgium once you have your ED ID card. In Belgium, you do not even have to see a Gender Team or professionals yet to change your gender on documents. You make an appointment with the City Hall with the civil registrar. 
 
 > ✏️ TIP: Make sure you take the following with you to your appointment to speed things up!
 > * proof of identity;
@@ -211,6 +224,9 @@ You make another appointment with the civil registrar, a minimum of three and a 
 Once your gender has been updated in Belgium, you can use this as evidence for a [Gender Recognition Certificate](https://www.gov.uk/apply-gender-recognition-certificate) in the UK so that you can update your gender on your passport as well.
 
 As a non-legal option, you can contact the Transgender Infopunt and request a "Gender Pass". This is a card document that explains things like a deadname on official documentation, or your ID photo not quite matching up with how you present your gender now (really useful if you are not out at work but decide to by yourself at weekends!). You can apply by visiting their website [here](https://www.transgenderinfo.be/nl/expressie/genderpasje). *This website is in Dutch.*
+
+🌱 **Minors Gender Care** 🌱
+For under 18s, the process is slightly different. You will need to register them with a gender team or independent psychologist. They will then assist you and your child with their gender identity and transition journey. Adolescent inhibitors and HRT are currently available for minors.
 
 > For the latest information on access to trans healthcare in Belgium visit the [Transgender Infopunt](https://www.transgenderinfo.be/nl). *This website is in Dutch.*
 
