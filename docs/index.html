@@ -24,12 +24,6 @@
 
 <div id="app"></div>
 
-<script>
-    window.$docsify = {
-        loadNavbar: false,  <!-- Set to false to use custom navbar -->
-        loadSidebar: true,
-    }
-</script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
 <!-- Keep only one instance of the search plugin -->
@@ -44,13 +38,11 @@
         repo: 'https://github.com/notakitty/thub',
         loadNavbar: true,
         loadSidebar: true,
-        basePath: '/', // Keep the base path at the root level
         alias: {
-            '/.*/_navbar.md': '/_navbar.md',  // Direct all navbar requests to the central file
-            '/.*/_sidebar.md': function(path) {
-                return path;  // Use the sidebar according to the current path for language-specific sidebars
-            }
+            '/.*/_navbar.md': '/_navbar.md',
+            '/.*/_sidebar.md': '/_sidebar.md',
         },
+        // basePath: '/docs/',  // Correct base path for GitHub Pages
         routerMode: 'history'  // Optional for pretty URLs
     };
 
@@ -58,11 +50,12 @@
     function handleLanguageRedirect() {
         var path = window.location.pathname;
         if (!/\/(en|fr|de|es|zh-CN|zh-HK)\//.test(path)) {
-            window.location.pathname = '/en/' + path;
+            window.location.pathname = '/docs/en/' + path;
         }
     }
     handleLanguageRedirect();
 </script>
+
 
 </body>
 </html>

@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](en/)
-* [Limited Support](en/country.md)
-* [<img src="/assets/svg/be.svg" alt="belgium" width="20"> Belgium](en/belgium.md) 
-* [<img src="/assets/svg/es.svg" alt="spain" width="20"> Spain](en/spain.md)
+* [Home](/)
+* [Limited Support](country.md)
+* [<img src="/assets/svg/be.svg" alt="belgium" width="20"> Belgium](belgium.md) 
+* [<img src="/assets/svg/es.svg" alt="spain" width="20"> Spain](spain.md)
 
   
 - **Links**
