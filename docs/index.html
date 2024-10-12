@@ -9,20 +9,19 @@
     <!-- Theme: Simple Dark -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 
+    <style>
+        .navbar img.flag-icon {
+            width: 20px;   // Set a fixed width for the flags
+        height: 15px;  // Set a fixed height for the flags
+        vertical-align: middle;  // Align the middle of the flag with the text (if any)
+        margin-right: 5px;       // Space between the flag and any text or other elements
+        }
+    </style>
+
 </head>
 
 <body>
-<nav>
-    <!-- To be used for translated pages, might change -->
-    <a href="#/">EN</a>
-    <a href="#/">ES</a>
-    <a href="#/">FR</a>
-    <a href="#/">DE</a>
-    <a href="#/">NL</a>
-    <a href="#/">IT</a>
-    <a href="#/">HK</a>
-    <a href="#/">CN</a>
-</nav>
+
 <div id="app"></div>
 
 <script>
@@ -35,5 +34,35 @@
 
 <!-- Keep only one instance of the search plugin -->
 <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+
+<!-- twemoji -->
+<script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
+
+<script>
+    window.$docsify = {
+        name: 'Thub Wiki',
+        repo: 'https://github.com/notakitty/thub',
+        loadNavbar: true,
+        loadSidebar: true,
+        basePath: '/', // Keep the base path at the root level
+        alias: {
+            '/.*/_navbar.md': '/_navbar.md',  // Direct all navbar requests to the central file
+            '/.*/_sidebar.md': function(path) {
+                return path;  // Use the sidebar according to the current path for language-specific sidebars
+            }
+        },
+        routerMode: 'history'  // Optional for pretty URLs
+    };
+
+    // Redirect to default language if no language code is in the URL
+    function handleLanguageRedirect() {
+        var path = window.location.pathname;
+        if (!/\/(en|fr|de|es|zh-CN|zh-HK)\//.test(path)) {
+            window.location.pathname = '/en/' + path;
+        }
+    }
+    handleLanguageRedirect();
+</script>
+
 </body>
 </html>

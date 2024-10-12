@@ -1,0 +1,7 @@
+- Translations
+  - <a href="/en/"><img src="/assets/svg/sh.svg" alt="UK Flag" class="flag-icon"> EN </a>
+  - <a href="/fr/"><img src="/assets/svg/fr.svg" alt="France Flag" class="flag-icon"> FR </a>
+  - <a href="/de/"><img src="/assets/svg/de.svg" alt="Germany Flag" class="flag-icon"> DE </a>
+  - <a href="/es/"><img src="/assets/svg/es.svg" alt="Spain Flag" class="flag-icon"> ES </a>
+  - <a href="/zh-CN/"><img src="/assets/svg/cn.svg" alt="China Flag" class="flag-icon"> CN </a>
+  - <a href="/zh-HK/"><img src="/assets/svg/hk.svg" alt="Hong Kong Flag" class="flag-icon"> HK </a>
