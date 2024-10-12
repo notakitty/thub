@@ -39,21 +39,16 @@
         loadNavbar: true,
         loadSidebar: true,
         alias: {
-            '/.*/_navbar.md': '/_navbar.md',
-            '/.*/_sidebar.md': '/_sidebar.md',
+            '/en/_sidebar.md': '/en/_sidebar.md',      // English sidebar
+            '/fr/_sidebar.md': '/fr/_sidebar.md',      // French sidebar
+            '/de/_sidebar.md': '/de/_sidebar.md',      // German sidebar
+            '/es/_sidebar.md': '/es/_sidebar.md',      // Spanish sidebar
+            '/zh-CN/_sidebar.md': '/zh-CN/_sidebar.md', // Simplified Chinese sidebar
+            '/zh-HK/_sidebar.md': '/zh-HK/_sidebar.md', // Traditional Chinese sidebar
         },
-        // basePath: '/docs/',  // Correct base path for GitHub Pages
-        routerMode: 'history'  // Optional for pretty URLs
+        homepage: 'en/README.md',  // Set English as the default homepage
+        routerMode: 'history',     // Optional: Makes URLs look prettier
     };
-
-    // Redirect to default language if no language code is in the URL
-    function handleLanguageRedirect() {
-        var path = window.location.pathname;
-        if (!/\/(en|fr|de|es|zh-CN|zh-HK)\//.test(path)) {
-            window.location.pathname = '/docs/en/' + path;
-        }
-    }
-    handleLanguageRedirect();
 </script>
 
 
