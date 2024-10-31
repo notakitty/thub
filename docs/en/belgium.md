@@ -48,6 +48,24 @@ Cafés always offer good quality but cheaper meals if you want to go out for a m
 
 There are many takeaway options in Belgium. They have the usuals like McDonalds and Dominoes, but they also have their chain called Quick. You can grab a kebab from a "kebap" shop but you won't find any Fish n Chip shops. Belgians go to a shop called a "frituur" in the Vlaanderen region (they also have these in the Netherlands!) which sells the world's best chips (or frietjes/frites!) alongside lots of unique fried goods. We recommend you dip your chips in "joppie saus" or truffle mayo, then accompany it with "Bitterballen" or the "biccy burger".
 
+🚃 **Transport Here** 🚃
+
+Using a car in Belgium is slightly different to in the UK, for starters they drive on the other side of the road. The road surface is usually different, there are less roundabouts and overall slower speed limits. Roads get heavily congested around cities, especially around rush hour so plan to add a good hour to your journey if travelling at these times. Traffic around Brussels is almost always difficult and can triple your planned journey time.
+
+As long as you are over 18 and have a valid driving license, you should be able to legally drive in Belgium. If your license is issued by an EU/EEA country, you'll also be able to use your existing license indefinitely. To find out more visit the [Federal Public Service Mobility and Transport website](https://mobilit.belgium.be/en/road/rijden/rijbewijzen/foreign-driving-licences).
+
+✏️ TIP: How to obtain a driving licence in Belgium:
+* [In Vlaanderen](https://www.vlaanderen.be/en/how-to-obtain-a-category-b-driving-licence).
+* [In Wallonia](https://www.wallonie.be/en/demarches/obtain-your-driving-licence-your-municipality)
+
+Large areas of Belgium are flat when compared to the UK and there are cycle lanes everywhere. Infact you are more likely to find cycle lanes than pavements once you leave cities and head out into the countryside. Bicycles are resticted to a speed limit in these speed lanes and things likes lights must be present at all times. Because it has been made so easy to travel by bike in Belgium you will see a large range of bike types, some even with trailers in the front to make shopping easier. You are also going to see large amounts of bikes parked up outside places likes train stations, libraries, schools, and popular cafes. Cycling is a popular sport in Belgium so you will frequently find road closures because of cycling tournaments being held such as in Hasselt city centre or around Leuven for the Lotto Cycling Cup.
+
+✏️ TIP: Because bicycles are very popular, it is worth being careful when walking around Belgium. Many cyclists travel at high speeds in busy areas and they will expect you to move out of the way, and not the other way around.  
+
+Train travel in Belgium is very inexpensive compared to UK prices and there are many different multi-trip saver options. You can book your tickets and find out timetable information in English on [SNCB/National Railway Company of Belgium website](https://www.belgiantrain.be/en). It's important to be aware that you will need to buy a ticket for your bicycle if you take it on board of a train. Like the UK there are first and second class sections of the train carriages, so be sure to seat yourself in the correct area. Some train carriages also have two floors, but these are usually the same class as the rest of the carriage, just be sure to check signs before walking up the stairs.
+
+✏️ TIP: When driving or using the roads in Belgium, please follow the rules of the road which you can find at [Your Europa Website](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/belgium/index_en.htm)  *This website is in English.*
+
 🏢 **Working Here** 🏢
 
 If you need help finding a job, you can sign up for the following job centres:
@@ -57,6 +75,7 @@ If you need help finding a job, you can sign up for the following job centres:
 * [Ostbelgien - ADG](https://adg.be). *This website is in German.*
 
 📚 **Studying Here**📚
+
 Belgium has some of the best universities in the world. International students flock to Leuven as their medical school has an excellent reputation. Cities like Leuven are very used to speaking English as a lingua franca so many shops and activities will be English-speaking.
 
 Most of the university cities have a similar situation, as well as many degrees are now being taught exclusively in English. Whilst studying you can learn one of the three national languages, and they take great care of their students. 
