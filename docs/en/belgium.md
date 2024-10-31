@@ -211,7 +211,11 @@ The best gender team to access is the one at Gent Hospital, however they have a 
 
 ❤️ **Psychological Assessment** ❤️
 
-There is very little resistance in general from specialists and gender teams regarding your transition. The psychological assessment that everyone has to do at the start of their journey (be that a psychologist directly or one via the gender teams) is informed on LGBT+ issues and merely wants to check your family history, health history, dysphoria, gender expression, your sexuality and have some insight from friends or family. All of this gets written up into a report which then includes referrals or the first steps of recommendations for your transition. The first steps usually involve referrals to an Endocrinologist and Voice Training coaches.
+There is very little resistance in general from specialists and gender teams regarding your transition. The psychological assessment that everyone has to do (many direct access gender care providers will still want to see that you have seen are currently seeing a psychologist before providing treatment) at the start of their journey are well informed on LGBT+ issues and merely wants to check your family history, health history, dysphoria, gender expression, your sexuality and have some insight from friends or family. All of this gets written up into a report which then includes referrals or the first steps of recommendations for your transition. The first steps usually involve referrals to an Endocrinologist. 
+
+🏥 **Surgerical Options** 🏥
+
+In Belgium the patient has the right to access what surgerical options they want to directly. Some surgeons may ask that you see a psychologist or have seen a psychologist before providing you with care. This does mean however that it is easier to access things like breast implants, mastectomies or hysterectomies than in the UK. You can go directly to a surgeon to perform these things for you without needing "approval" or a referral from your GP/Gender Team. However, this is usually a more expensive option than waiting for a hospital Gender Team to provide the same surgeries. The waiting times are often dramatically lower. In 2024 we contacted a surgeon about top surgery and the waiting list was only 4 months, however a hospital Gender Teams waiting list was 2 years.
 
 👑 **Name Change and Gender Recognition** 👑
 
